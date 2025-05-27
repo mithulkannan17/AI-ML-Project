@@ -39,14 +39,13 @@ The following models were trained and evaluated. Accuracy scores were calculated
 
 | Model                | Accuracy |
 |---------------------|----------|
-| Linear Regression    | 0.7575   |
+| Linear Regression    | 0.2600   |
 | Logistic Regression  | 0.6700   |
 | K-Nearest Neighbors  | 0.6600   |
 | Naive Bayes          | 0.7500   |
-| Random Forest        | 0.7500   |
+| Random Forest        | 0.7200   |
 
  **Top Performers**:
-- **Linear Regression** (used with threshold ≥ 0.5)
 - **Random Forest**
 - **Naive Bayes**
 
